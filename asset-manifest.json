@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/react-thermostat/static/js/main.782d39a4.chunk.js",
+    "main.js.map": "/react-thermostat/static/js/main.782d39a4.chunk.js.map",
+    "runtime-main.js": "/react-thermostat/static/js/runtime-main.e768d11b.js",
+    "runtime-main.js.map": "/react-thermostat/static/js/runtime-main.e768d11b.js.map",
+    "static/js/2.e329272c.chunk.js": "/react-thermostat/static/js/2.e329272c.chunk.js",
+    "static/js/2.e329272c.chunk.js.map": "/react-thermostat/static/js/2.e329272c.chunk.js.map",
+    "index.html": "/react-thermostat/index.html",
+    "precache-manifest.45be66c4af3cb5cd0e7a698e7cec8236.js": "/react-thermostat/precache-manifest.45be66c4af3cb5cd0e7a698e7cec8236.js",
+    "service-worker.js": "/react-thermostat/service-worker.js",
+    "static/js/2.e329272c.chunk.js.LICENSE": "/react-thermostat/static/js/2.e329272c.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e768d11b.js",
+    "static/js/2.e329272c.chunk.js",
+    "static/js/main.782d39a4.chunk.js"
+  ]
+}
